@@ -1,0 +1,1 @@
+export PATH=/hepstore/g2share/LabRecorders/elogBuild/bin:$PATH
