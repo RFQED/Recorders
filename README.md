@@ -21,3 +21,6 @@
  `sudo make install`
 
 can edit the Makefile to your local PREFIX then add this prefix to your PATH
+
+
+More here = http://hep.ph.liv.ac.uk/~wturner/LabRecorders.html
