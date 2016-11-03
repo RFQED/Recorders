@@ -2,22 +2,22 @@
 
 ## How to use
 
- ssh g2share@hep72 
+ `ssh g2share@hep72 `
 
- cd /hepstore/g2share/LabRecorders 
+ `cd /hepstore/g2share/LabRecorders `
 
- source setup.sh 
+ `source setup.sh` 
 
- python TensionRecord.py 
+ `python TensionRecord.py` 
 
 ## To setup
 
- sudo apt-get install libssl-dev
+ `sudo apt-get install libssl-dev`
 
- git clone https://bitbucket.org/ritt/elog
+ `git clone https://bitbucket.org/ritt/elog`
 
- make
+ `make`
 
- sudo make install
+ `sudo make install`
 
 can edit the Makefile to your local PREFIX then add this prefix to your PATH
